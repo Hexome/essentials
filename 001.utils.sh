@@ -9,4 +9,4 @@ sudo a2enconf php7.0-fpm;
 php --ini;
 
 # install dirmngr
-sudo apt-get install dirmngr;
+sudo apt-get install dirmngr -y;
