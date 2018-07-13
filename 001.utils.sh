@@ -1,3 +1,5 @@
+# Actualiza!
+sudo apt update;
 # Development of database in the debian
 sudo apt install php*-sql* -y -f;
 sudo apt install php*-*sql -y -f;
